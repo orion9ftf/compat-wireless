@@ -1,10 +1,18 @@
 ## Instalar Compat-wireless-2010-07-26
 
-* Ingresar como super usuario
+
+Revisar donde se almacena el archivo:
 ```sh
-$ sudo su
+$ cd Download
+$ ls
 ```
 
+* Ingresar como super usuario:
+
+```sh
+$ sudo su 
+$ tar -xf compat-wireless-2010-07-26.tar.bz2
+```
 
 ```sh
 $ cd compat-wireless-2010-07-26
